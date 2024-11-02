@@ -1,5 +1,11 @@
 /*  your css code here. If applicable */
 form{
-	display:flex;
-	flex-direction:column;
+    display: flex;
+    flex-direction: column;
+    width:30vw;
+}
+
+.btnCont{
+    margin-top:1vh;
+    width:8vw;
 }
